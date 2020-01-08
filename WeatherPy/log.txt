@@ -1,0 +1,634 @@
+Getting data for city number 0, rikitea
+Getting data for city number 1, constitucion
+Getting data for city number 2, myitkyina
+Getting data for city number 3, buturlinovka
+Getting data for city number 4, vaini
+Getting data for city number 5, jamestown
+Getting data for city number 6, qaanaaq
+Getting data for city number 7, yellowknife
+Getting data for city number 8, bluff
+Getting data for city number 9, hobart
+Getting data for city number 10, sujangarh
+Getting data for city number 11, thompson
+Getting data for city number 12, kodiak
+Getting data for city number 13, chicama
+Getting data for city number 14, thinadhoo
+Getting data for city number 15, ushuaia
+Getting data for city number 16, portland
+Getting data for city number 17, bredasdorp
+Getting data for city number 18, victoria
+Getting data for city number 19, panguna
+Getting data for city number 20, castro
+Getting data for city number 21, pisco
+Getting data for city number 22, clyde river
+Getting data for city number 23, mar del plata
+Getting data for city number 24, georgetown
+Getting data for city number 25, kardymovo
+Getting data for city number 26, mataura
+Getting data for city number 27, xuanhua
+Getting data for city number 28, avarua
+Getting data for city number 29, cayenne
+Getting data for city number 30, chokurdakh
+city number 31, tsihombe is not found
+Getting data for city number 32, atuona
+city number 33, samusu is not found
+Getting data for city number 34, lavrentiya
+Getting data for city number 35, busselton
+Getting data for city number 36, boulsa
+Getting data for city number 37, albany
+Getting data for city number 38, los llanos de aridane
+Getting data for city number 39, cabo san lucas
+Getting data for city number 40, nanortalik
+Getting data for city number 41, bethel
+city number 42, babanusah is not found
+Getting data for city number 43, dikson
+Getting data for city number 44, port elizabeth
+Getting data for city number 45, sindor
+city number 46, taolanaro is not found
+Getting data for city number 47, port blair
+Getting data for city number 48, carnarvon
+Getting data for city number 49, punta arenas
+Getting data for city number 50, harper
+Getting data for city number 51, faro
+Getting data for city number 52, chute-aux-outardes
+Getting data for city number 53, tasiilaq
+Getting data for city number 54, conakry
+Getting data for city number 55, butaritari
+Getting data for city number 56, hilo
+Getting data for city number 57, cidreira
+Getting data for city number 58, bukama
+Getting data for city number 59, sao joao da barra
+Getting data for city number 60, port alfred
+Getting data for city number 61, hermanus
+Getting data for city number 62, kahului
+Getting data for city number 63, primo tapia
+city number 64, mys shmidta is not found
+Getting data for city number 65, hami
+city number 66, vaitupu is not found
+Getting data for city number 67, angoche
+city number 68, amderma is not found
+Getting data for city number 69, carutapera
+city number 70, karauzyak is not found
+Getting data for city number 71, poum
+Getting data for city number 72, kaduy
+city number 73, saryshagan is not found
+Getting data for city number 74, cockburn town
+Getting data for city number 75, glogow
+Getting data for city number 76, lebu
+Getting data for city number 77, ambon
+Getting data for city number 78, paita
+Getting data for city number 79, sitka
+city number 80, tarudant is not found
+Getting data for city number 81, inuvik
+Getting data for city number 82, neiafu
+Getting data for city number 83, faanui
+Getting data for city number 84, pangani
+Getting data for city number 85, jhanjharpur
+city number 86, krasnoselkup is not found
+Getting data for city number 87, leh
+Getting data for city number 88, colac
+Getting data for city number 89, new norfolk
+Getting data for city number 90, dunedin
+Getting data for city number 91, umm kaddadah
+city number 92, nizhneyansk is not found
+Getting data for city number 93, ponta do sol
+Getting data for city number 94, basco
+Getting data for city number 95, roebourne
+Getting data for city number 96, tiksi
+Getting data for city number 97, kindu
+Getting data for city number 98, metro
+city number 99, attawapiskat is not found
+Getting data for city number 100, kalabo
+Getting data for city number 101, cape town
+Getting data for city number 102, saskylakh
+Getting data for city number 103, udachnyy
+Getting data for city number 104, emerald
+Getting data for city number 105, coahuayana
+Getting data for city number 106, rolla
+Getting data for city number 107, severo-kurilsk
+Getting data for city number 108, sinnamary
+city number 109, gorno-chuyskiy is not found
+Getting data for city number 110, san patricio
+city number 111, illoqqortoormiut is not found
+Getting data for city number 112, koutsouras
+Getting data for city number 113, ancud
+Getting data for city number 114, longyearbyen
+Getting data for city number 115, sauda
+Getting data for city number 116, vanavara
+Getting data for city number 117, mackay
+Getting data for city number 118, yulara
+Getting data for city number 119, juneau
+Getting data for city number 120, port augusta
+city number 121, talesh is not found
+Getting data for city number 122, nyurba
+Getting data for city number 123, lishan
+Getting data for city number 124, gat
+Getting data for city number 125, parkes
+Getting data for city number 126, zatoka
+Getting data for city number 127, arraial do cabo
+Getting data for city number 128, brokopondo
+Getting data for city number 129, sinor
+Getting data for city number 130, kapaa
+Getting data for city number 131, port hardy
+Getting data for city number 132, college
+Getting data for city number 133, ust-kuyga
+Getting data for city number 134, vostok
+Getting data for city number 135, kirakira
+city number 136, barentsburg is not found
+city number 137, palabuhanratu is not found
+Getting data for city number 138, acapulco
+Getting data for city number 139, alugan
+Getting data for city number 140, mezen
+Getting data for city number 141, estelle
+Getting data for city number 142, raduzhnyy
+city number 143, belushya guba is not found
+Getting data for city number 144, padang
+city number 145, phan rang is not found
+Getting data for city number 146, charlestown
+Getting data for city number 147, bilma
+Getting data for city number 148, oussouye
+Getting data for city number 149, ranfurly
+Getting data for city number 150, ostrovnoy
+Getting data for city number 151, dengfeng
+Getting data for city number 152, jumla
+Getting data for city number 153, marsaxlokk
+Getting data for city number 154, winfield
+city number 155, samalaeulu is not found
+Getting data for city number 156, chimbote
+Getting data for city number 157, fortuna
+city number 158, port-de-paix is not found
+Getting data for city number 159, gigmoto
+Getting data for city number 160, ngunguru
+Getting data for city number 161, upernavik
+Getting data for city number 162, provideniya
+Getting data for city number 163, khatanga
+Getting data for city number 164, duku
+Getting data for city number 165, superior
+city number 166, olafsvik is not found
+Getting data for city number 167, qaqortoq
+Getting data for city number 168, ilulissat
+Getting data for city number 169, hambantota
+Getting data for city number 170, malaya vishera
+Getting data for city number 171, san rafael
+Getting data for city number 172, banswara
+Getting data for city number 173, gafargaon
+Getting data for city number 174, ixtapa
+city number 175, umzimvubu is not found
+Getting data for city number 176, santa rosa
+Getting data for city number 177, pyay
+Getting data for city number 178, puerto escondido
+Getting data for city number 179, deniliquin
+city number 180, odweyne is not found
+Getting data for city number 181, chilliwack
+Getting data for city number 182, sechenovo
+Getting data for city number 183, tuktoyaktuk
+Getting data for city number 184, laguna
+Getting data for city number 185, faya
+Getting data for city number 186, west bay
+Getting data for city number 187, yining
+Getting data for city number 188, takoradi
+Getting data for city number 189, narsaq
+Getting data for city number 190, alofi
+Getting data for city number 191, borba
+city number 192, grimari is not found
+Getting data for city number 193, kaitangata
+Getting data for city number 194, alice springs
+Getting data for city number 195, caravelas
+Getting data for city number 196, vila velha
+Getting data for city number 197, eyrarbakki
+Getting data for city number 198, ukiah
+city number 199, korla is not found
+Getting data for city number 200, skjervoy
+Getting data for city number 201, ariano irpino
+Getting data for city number 202, iquitos
+Getting data for city number 203, dejen
+Getting data for city number 204, barrow
+Getting data for city number 205, tecolutla
+Getting data for city number 206, luderitz
+Getting data for city number 207, usolye-sibirskoye
+Getting data for city number 208, port hedland
+city number 209, ijaki is not found
+Getting data for city number 210, isabela
+Getting data for city number 211, hvide sande
+Getting data for city number 212, kavieng
+Getting data for city number 213, gashua
+Getting data for city number 214, haines junction
+Getting data for city number 215, cabras
+Getting data for city number 216, cherskiy
+Getting data for city number 217, sistranda
+Getting data for city number 218, galveston
+Getting data for city number 219, pevek
+Getting data for city number 220, batemans bay
+Getting data for city number 221, choya
+Getting data for city number 222, omsukchan
+Getting data for city number 223, meulaboh
+Getting data for city number 224, san lorenzo
+Getting data for city number 225, korampallam
+Getting data for city number 226, san cristobal
+Getting data for city number 227, goure
+Getting data for city number 228, nirgua
+Getting data for city number 229, cajibio
+Getting data for city number 230, huarmey
+Getting data for city number 231, havre-saint-pierre
+Getting data for city number 232, gonbad-e qabus
+Getting data for city number 233, hobyo
+Getting data for city number 234, lazaro cardenas
+Getting data for city number 235, roald
+Getting data for city number 236, mangan
+Getting data for city number 237, snasa
+Getting data for city number 238, khani
+Getting data for city number 239, adrar
+Getting data for city number 240, rio gallegos
+city number 241, coetupo is not found
+Getting data for city number 242, freeport
+Getting data for city number 243, bambous virieux
+city number 244, grand centre is not found
+Getting data for city number 245, souillac
+Getting data for city number 246, hereford
+Getting data for city number 247, aklavik
+Getting data for city number 248, sumbe
+city number 249, dolbeau is not found
+Getting data for city number 250, vardo
+Getting data for city number 251, deputatskiy
+Getting data for city number 252, ihosy
+Getting data for city number 253, henties bay
+city number 254, marcona is not found
+Getting data for city number 255, wilmington
+Getting data for city number 256, tautira
+Getting data for city number 257, port arthur
+Getting data for city number 258, saint-joseph
+Getting data for city number 259, hamilton
+Getting data for city number 260, saint-leu
+Getting data for city number 261, maragogi
+city number 262, higuey is not found
+Getting data for city number 263, sola
+Getting data for city number 264, palauig
+Getting data for city number 265, ahipara
+Getting data for city number 266, tuatapere
+Getting data for city number 267, katsuura
+Getting data for city number 268, saint-philippe
+Getting data for city number 269, bathsheba
+Getting data for city number 270, senanga
+Getting data for city number 271, guerrero negro
+Getting data for city number 272, san andres
+Getting data for city number 273, arkadak
+Getting data for city number 274, hithadhoo
+Getting data for city number 275, lasa
+Getting data for city number 276, the pas
+Getting data for city number 277, saint george
+Getting data for city number 278, aitape
+Getting data for city number 279, san luis
+Getting data for city number 280, hualmay
+Getting data for city number 281, kawalu
+Getting data for city number 282, marabba
+city number 283, halalo is not found
+Getting data for city number 284, mackenzie
+city number 285, mocambique is not found
+Getting data for city number 286, ribeira grande
+Getting data for city number 287, salalah
+city number 288, teneguiban is not found
+Getting data for city number 289, lavumisa
+Getting data for city number 290, lorengau
+Getting data for city number 291, samarai
+Getting data for city number 292, puerto ayora
+Getting data for city number 293, tura
+Getting data for city number 294, amapa
+Getting data for city number 295, airai
+Getting data for city number 296, pendleton
+Getting data for city number 297, touros
+Getting data for city number 298, kedgwick
+city number 299, longlac is not found
+Getting data for city number 300, sept-iles
+Getting data for city number 301, teguldet
+Getting data for city number 302, mwinilunga
+Getting data for city number 303, lodja
+Getting data for city number 304, olinda
+Getting data for city number 305, hebi
+Getting data for city number 306, thayetmyo
+Getting data for city number 307, komsomolskiy
+Getting data for city number 308, rio cuarto
+Getting data for city number 309, bima
+Getting data for city number 310, winneba
+Getting data for city number 311, port macquarie
+Getting data for city number 312, mount gambier
+Getting data for city number 313, skibbereen
+Getting data for city number 314, ormara
+Getting data for city number 315, yar-sale
+city number 316, porto santo is not found
+Getting data for city number 317, amahai
+Getting data for city number 318, lund
+Getting data for city number 319, shakhunya
+Getting data for city number 320, baoqing
+Getting data for city number 321, winnemucca
+Getting data for city number 322, aykhal
+Getting data for city number 323, bambanglipuro
+Getting data for city number 324, saint-augustin
+Getting data for city number 325, methoni
+Getting data for city number 326, yatou
+Getting data for city number 327, changji
+Getting data for city number 328, marivan
+Getting data for city number 329, kailua
+city number 330, qui nhon is not found
+city number 331, tartus is not found
+Getting data for city number 332, buraydah
+Getting data for city number 333, inhambane
+Getting data for city number 334, sembakung
+Getting data for city number 335, okha
+Getting data for city number 336, paamiut
+Getting data for city number 337, sangar
+city number 338, koungou is not found
+Getting data for city number 339, saint-pierre
+Getting data for city number 340, leander
+Getting data for city number 341, kandrian
+Getting data for city number 342, sandwick
+Getting data for city number 343, ucluelet
+Getting data for city number 344, hasaki
+Getting data for city number 345, coquimbo
+Getting data for city number 346, bone
+Getting data for city number 347, juegang
+Getting data for city number 348, gambela
+Getting data for city number 349, ambilobe
+Getting data for city number 350, hofn
+Getting data for city number 351, whitehorse
+Getting data for city number 352, santa maria
+Getting data for city number 353, tarko-sale
+Getting data for city number 354, majagual
+Getting data for city number 355, east london
+Getting data for city number 356, monroe
+Getting data for city number 357, hailar
+city number 358, shahpur city is not found
+Getting data for city number 359, honiara
+Getting data for city number 360, lalmohan
+Getting data for city number 361, mastic beach
+Getting data for city number 362, sharjah
+Getting data for city number 363, anton lizardo
+Getting data for city number 364, egvekinot
+Getting data for city number 365, muncar
+Getting data for city number 366, tazovskiy
+Getting data for city number 367, namibe
+Getting data for city number 368, sao filipe
+Getting data for city number 369, east lansing
+Getting data for city number 370, salinopolis
+Getting data for city number 371, norman wells
+Getting data for city number 372, saurimo
+Getting data for city number 373, rulenge
+Getting data for city number 374, fort nelson
+Getting data for city number 375, maldonado
+Getting data for city number 376, kysyl-syr
+Getting data for city number 377, mehamn
+Getting data for city number 378, geraldton
+Getting data for city number 379, green river
+Getting data for city number 380, cascais
+Getting data for city number 381, nikolskoye
+Getting data for city number 382, rio grande
+Getting data for city number 383, mareeba
+Getting data for city number 384, kochubey
+Getting data for city number 385, chuy
+city number 386, ngukurr is not found
+Getting data for city number 387, togur
+Getting data for city number 388, kieta
+Getting data for city number 389, gazojak
+Getting data for city number 390, duluth
+Getting data for city number 391, kaupanger
+Getting data for city number 392, vanimo
+Getting data for city number 393, nancha
+Getting data for city number 394, alikalia
+Getting data for city number 395, krasyukovskaya
+Getting data for city number 396, iralaya
+Getting data for city number 397, alyangula
+Getting data for city number 398, fiche
+Getting data for city number 399, barra patuca
+Getting data for city number 400, comodoro rivadavia
+Getting data for city number 401, karlshamn
+Getting data for city number 402, kirsanov
+Getting data for city number 403, paracuru
+Getting data for city number 404, mercogliano
+Getting data for city number 405, otradnoye
+Getting data for city number 406, jacareacanga
+Getting data for city number 407, penha
+Getting data for city number 408, khovu-aksy
+city number 409, xiangdong is not found
+Getting data for city number 410, gibara
+Getting data for city number 411, gorontalo
+Getting data for city number 412, la ronge
+Getting data for city number 413, rockhampton
+Getting data for city number 414, nefteyugansk
+Getting data for city number 415, balkanabat
+Getting data for city number 416, labuhan
+Getting data for city number 417, talaya
+Getting data for city number 418, bandarbeyla
+Getting data for city number 419, cairns
+Getting data for city number 420, bilibino
+city number 421, rawannawi is not found
+Getting data for city number 422, north bend
+Getting data for city number 423, contamana
+city number 424, bargal is not found
+Getting data for city number 425, kruisfontein
+Getting data for city number 426, torbay
+Getting data for city number 427, bonfim
+Getting data for city number 428, aripuana
+city number 429, hvammstangi is not found
+city number 430, litoral del san juan is not found
+Getting data for city number 431, la tuque
+Getting data for city number 432, teshie
+Getting data for city number 433, beyneu
+Getting data for city number 434, dingle
+city number 435, arrecife is not found
+Getting data for city number 436, anadyr
+city number 437, we is not found
+Getting data for city number 438, nemuro
+Getting data for city number 439, ilhabela
+Getting data for city number 440, grand gaube
+Getting data for city number 441, avera
+Getting data for city number 442, minab
+Getting data for city number 443, atambua
+Getting data for city number 444, eureka
+Getting data for city number 445, copperas cove
+Getting data for city number 446, salihorsk
+Getting data for city number 447, kilingi-nomme
+Getting data for city number 448, zaraza
+Getting data for city number 449, katobu
+Getting data for city number 450, kavaratti
+Getting data for city number 451, chara
+Getting data for city number 452, los zacatones
+Getting data for city number 453, tateyama
+Getting data for city number 454, isangel
+Getting data for city number 455, gambo
+city number 456, donja medjidja is not found
+city number 457, kazalinsk is not found
+Getting data for city number 458, mahebourg
+Getting data for city number 459, elk
+Getting data for city number 460, san quintin
+Getting data for city number 461, tigil
+Getting data for city number 462, leningradskiy
+city number 463, barawe is not found
+Getting data for city number 464, nuuk
+Getting data for city number 465, winchester
+Getting data for city number 466, manaure
+Getting data for city number 467, chaumont
+Getting data for city number 468, bacungan
+Getting data for city number 469, ucar
+Getting data for city number 470, batagay
+Getting data for city number 471, naze
+Getting data for city number 472, cabedelo
+Getting data for city number 473, klaksvik
+city number 474, lolua is not found
+Getting data for city number 475, talnakh
+Getting data for city number 476, hearst
+Getting data for city number 477, ouadda
+Getting data for city number 478, esperance
+Getting data for city number 479, honningsvag
+Getting data for city number 480, richards bay
+Getting data for city number 481, niquelandia
+Getting data for city number 482, shingu
+city number 483, ruatoria is not found
+Getting data for city number 484, vao
+Getting data for city number 485, port-gentil
+Getting data for city number 486, midland
+Getting data for city number 487, xuddur
+city number 488, tabiauea is not found
+Getting data for city number 489, beringovskiy
+Getting data for city number 490, serenje
+city number 491, skagastrond is not found
+city number 492, svetlyy is not found
+Getting data for city number 493, monrovia
+Getting data for city number 494, byron bay
+Getting data for city number 495, popondetta
+Getting data for city number 496, abu samrah
+Getting data for city number 497, carrickfergus
+Getting data for city number 498, shakhtinsk
+Getting data for city number 499, penzance
+Getting data for city number 500, kushiro
+Getting data for city number 501, laukaa
+Getting data for city number 502, belmonte
+Getting data for city number 503, atikokan
+Getting data for city number 504, rincon
+Getting data for city number 505, peniche
+Getting data for city number 506, bongandanga
+Getting data for city number 507, loncoche
+Getting data for city number 508, lompoc
+Getting data for city number 509, marrakesh
+Getting data for city number 510, codrington
+Getting data for city number 511, grindavik
+Getting data for city number 512, willowmore
+Getting data for city number 513, magadan
+Getting data for city number 514, high rock
+Getting data for city number 515, sarangani
+Getting data for city number 516, oyama
+Getting data for city number 517, novosineglazovskiy
+Getting data for city number 518, kloulklubed
+city number 519, bengkulu is not found
+Getting data for city number 520, volodarka
+city number 521, marv dasht is not found
+Getting data for city number 522, takhtamygda
+Getting data for city number 523, gushikawa
+Getting data for city number 524, qeshm
+Getting data for city number 525, challapata
+Getting data for city number 526, great falls
+Getting data for city number 527, mayo
+Getting data for city number 528, itarema
+Getting data for city number 529, tromso
+Getting data for city number 530, atasu
+Getting data for city number 531, lagoa
+Getting data for city number 532, opuwo
+Getting data for city number 533, hazorasp
+Getting data for city number 534, saint-francois
+Getting data for city number 535, kidal
+Getting data for city number 536, balkhash
+Getting data for city number 537, burnie
+Getting data for city number 538, kudahuvadhoo
+Getting data for city number 539, evensk
+Getting data for city number 540, macapa
+Getting data for city number 541, basoko
+Getting data for city number 542, mumford
+Getting data for city number 543, vestmanna
+Getting data for city number 544, singaraja
+Getting data for city number 545, kanlagay
+city number 546, ndele is not found
+Getting data for city number 547, paoua
+Getting data for city number 548, port moresby
+Getting data for city number 549, vila franca do campo
+Getting data for city number 550, kachug
+Getting data for city number 551, dunkwa
+Getting data for city number 552, puerto narino
+Getting data for city number 553, general roca
+Getting data for city number 554, yeppoon
+Getting data for city number 555, rincon de la victoria
+city number 556, formoso do araguaia is not found
+Getting data for city number 557, kulhudhuffushi
+Getting data for city number 558, luunja
+Getting data for city number 559, halifax
+city number 560, cazaje is not found
+Getting data for city number 561, beloha
+Getting data for city number 562, bandiagara
+Getting data for city number 563, tubuala
+Getting data for city number 564, newport
+Getting data for city number 565, sobolevo
+Getting data for city number 566, vilhena
+Getting data for city number 567, mayna
+Getting data for city number 568, strezhevoy
+Getting data for city number 569, nanakuli
+Getting data for city number 570, portree
+Getting data for city number 571, chazuta
+city number 572, ciras is not found
+Getting data for city number 573, niono
+Getting data for city number 574, lata
+Getting data for city number 575, lasem
+Getting data for city number 576, laurel
+Getting data for city number 577, yumen
+Getting data for city number 578, auki
+Getting data for city number 579, cabra
+Getting data for city number 580, andra
+Getting data for city number 581, khandyga
+Getting data for city number 582, barabinsk
+city number 583, pemangkat is not found
+Getting data for city number 584, lukovetskiy
+city number 585, azimur is not found
+Getting data for city number 586, huangchuan
+Getting data for city number 587, copparo
+Getting data for city number 588, horodnytsya
+Getting data for city number 589, voh
+city number 590, sakakah is not found
+Getting data for city number 591, veraval
+Getting data for city number 592, zheleznodorozhnyy
+Getting data for city number 593, kovdor
+Getting data for city number 594, tuy hoa
+city number 595, sentyabrskiy is not found
+Getting data for city number 596, panaba
+Getting data for city number 597, gornopravdinsk
+Getting data for city number 598, liverpool
+Getting data for city number 599, rusape
+city number 600, kamenskoye is not found
+city number 601, toliary is not found
+Getting data for city number 602, floro
+Getting data for city number 603, stromness
+Getting data for city number 604, mojo
+Getting data for city number 605, choma
+Getting data for city number 606, kutum
+Getting data for city number 607, husavik
+Getting data for city number 608, namtsy
+Getting data for city number 609, dharmavaram
+city number 610, asau is not found
+Getting data for city number 611, saldanha
+city number 612, sapao is not found
+Getting data for city number 613, bubaque
+Getting data for city number 614, mount isa
+Getting data for city number 615, koratla
+Getting data for city number 616, vad
+Getting data for city number 617, nieuw amsterdam
+Getting data for city number 618, kouqian
+Getting data for city number 619, caxito
+Getting data for city number 620, korhogo
+Getting data for city number 621, arcachon
+Getting data for city number 622, katherine
+Getting data for city number 623, borogontsy
+city number 624, mentok is not found
+Getting data for city number 625, ardabil
+Getting data for city number 626, fairbanks
+Getting data for city number 627, amazar
+Getting data for city number 628, mitsamiouli
+Getting data for city number 629, riyadh
+Getting data for city number 630, aginskoye
+Getting data for city number 631, lakeside
+Getting data for city number 632, warwick
+city number 633, kashi is not found
